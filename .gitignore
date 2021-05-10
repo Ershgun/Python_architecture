@@ -1,2 +1,5 @@
-# Project exclude paths
-/venv/
+.idea/
+wavy/__pycache__/
+framework/__pycache__
+__pycache__/
+venv
